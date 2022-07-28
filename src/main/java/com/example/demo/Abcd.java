@@ -12,7 +12,7 @@ public class Abcd {
 	public static void main(String[] args) {
 		String s = "Hello how are you";
 		String s1 = "Hello how are uuuuuuu";
-		String s2 = "Hello how nnnnnnnare uuuuuuu";
+		String s2 = "Hello how re uuuuuuu";
 		
 		IntStream c = s.chars();
 		
