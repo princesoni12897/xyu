@@ -11,6 +11,7 @@ public class Abcd {
 
 	public static void main(String[] args) {
 		String s = "Hello how are you";
+		String s1 = "Hello how are uuuuuuu";
 		
 		IntStream c = s.chars();
 		
